@@ -1,0 +1,31 @@
+
+//at least no sign up
+https://archive.ics.uci.edu/
+
+//USA goverment data
+https://catalog.data.gov/dataset?q=
+
+
+https://catalog.data.gov/dataset/crime-data-from-2020-to-present
+https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8/about_data
+	-> holds the explanation to all the fields
+	-> has only 15 somewhat useful fields (could be closer to 10)
+	-> https://www.latlong.net/   can be used to see the exact position on google maps
+	-> I think I can make a heat map with a 2D image as the background to simulate where the crimes are taking place
+	-> if you may need some additional data maybe you can use :https://archive.ics.uci.edu/dataset/211/communities+and+crime+unnormalized 
+		the dataset mentioned above however only has data from the 1990's which due to increase of population is not viable anymore
+
+
+
+
+https://catalog.data.gov/dataset/real-estate-sales-2001-2018
+	-> sounds dumb...
+
+https://archive.ics.uci.edu/dataset/73/mushroom
+	-> sounds boring and probably dumb but at least there's documentation
+	
+	
+continuing the search:
+https://catalog.data.gov/dataset/?q=&res_format=CSV&page=5
+
+voice recognition neural network

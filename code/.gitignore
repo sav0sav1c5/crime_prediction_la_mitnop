@@ -1,0 +1,4 @@
+*.docx
+*.csv
+Crime_Data_from_2020_to_Present.csv
+__pycache__
