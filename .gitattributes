@@ -1,0 +1,10 @@
+*.py linguist-detectable=true
+*.html linguist-detectable=false
+*.geojson linguist-detectable=false
+*.h5 linguist-detectable=false
+*.jpg linguist-detectable=false
+*.png linguist-detectable=false
+*.py linguist-language=Python
+*.h5 linguist-vendored
+*.jpg linguist-vendored
+*.png linguist-vendored
